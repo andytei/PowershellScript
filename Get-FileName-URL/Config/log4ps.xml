@@ -1,1 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	1. levels=debug,info,warn,error,fatal 
+	2. file size in KB
+	3. patterns: %d=date %t=time %lvl=level %log_data=data to log
 
+     Example of a simple layout
+     <appender type="RollingFileAppender" name="log.log" maxFileSize="10" maxBackupFiles="3">
+          <layout type="SimpleLayout" />
+     </appender>
+-->
+<LOG4PS level="debug">
+     <APPENDER type="RollingFileAppender" name="log.log" maxFileSize="10240" maxBackupFiles="5">
+          <LAYOUT type="PatternLayout" pattern="%d %t [%lvl]: %log_data"/>
+     </APPENDER>
+</LOG4PS>
