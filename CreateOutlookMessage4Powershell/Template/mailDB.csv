@@ -1,0 +1,8 @@
+No,SendSwitch,SysDifferentiate,DestinationAddress,CC,Subject,DestinationName,ResponseDeadline,MailTemplate,Attachments
+1,T,SYS1,ML-Name<ML@com.com>,ML-Name<ML@com.com>,XXXのご連絡,XXX関係者各位,2018年8月17日,C:\workspace\00\CreateOutlookMessage4Powershell\Template\MailTemplate.txt,D:\Unyo\Work\NaviWork\xx添付ファイル.xlsx
+2,F,SYS1,ML-Name<ML@com.com>,ML-Name<ML@com.com>,XXXのご連絡,XXX関係者各位,2018年8月17日,C:\workspace\00\CreateOutlookMessage4Powershell\Template\MailTemplate.txt,D:\Unyo\Work\NaviWork\xx添付ファイル.xlsX
+
+
+
+
+
