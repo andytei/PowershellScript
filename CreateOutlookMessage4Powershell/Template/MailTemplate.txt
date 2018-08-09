@@ -1,0 +1,11 @@
+{DestinationName}
+
+
+お世話になっております。
+xxxでございます。
+XXXX
+XXXXXXX
+{ResponseDeadline}
+
+
+以上、宜しくお願い致します。
